@@ -1,16 +1,23 @@
-# blank_fire_setstate
+# UI Petshop
 
 A new Flutter project.
 
-## Getting Started
+## Credits
 
-This project is a starting point for a Flutter application.
+This Ui sample is taken dribble (https://dribbble.com/shots/20508430-Online-Petshop-App-UX-UI).
 
-A few resources to get you started if this is your first Flutter project:
+## Whats implemented
+ flutter clean arichitecture
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## SnapShoot
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+![alt text](https://github.com/MYusufEfendi/flutter_ui_petshop/blob/main/pic1.png)
+![alt text](https://github.com/MYusufEfendi/flutter_ui_petshop/blob/main/pic2.png)
+![alt text](https://github.com/MYusufEfendi/flutter_ui_petshop/blob/main/pic3.png)
+
+
+![Alt Text](https://github.com/MYusufEfendi/flutter_ui_petshop/blob/main/pethop.gif)
+
+
