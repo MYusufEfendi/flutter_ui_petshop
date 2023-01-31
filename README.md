@@ -13,9 +13,10 @@ This Ui sample is taken dribble (https://dribbble.com/shots/20508430-Online-Pets
 
 
 
-![alt text](https://github.com/MYusufEfendi/flutter_ui_petshop/blob/main/pic1.png | width = 100) | ![alt text](https://github.com/MYusufEfendi/flutter_ui_petshop/blob/main/pic2.png | width = 100 )
+![alt text](https://github.com/MYusufEfendi/flutter_ui_petshop/blob/main/pic1.png | width=100)
+![alt text](https://github.com/MYusufEfendi/flutter_ui_petshop/blob/main/pic2.png | width=100 )
 
-![alt text](https://github.com/MYusufEfendi/flutter_ui_petshop/blob/main/pic3.png| width = 100 )
+![alt text](https://github.com/MYusufEfendi/flutter_ui_petshop/blob/main/pic3.png| width=100 )
 
 
 ![Alt Text](https://github.com/MYusufEfendi/flutter_ui_petshop/blob/main/pethop.gif)
