@@ -11,9 +11,9 @@ This Ui sample is taken dribble (https://dribbble.com/shots/20508430-Online-Pets
 
 ## SnapShoot 
 <p float="left">
-<img src="https://github.com/MYusufEfendi/flutter_ui_petshop/blob/main/pic1.png" width="80%" height="80%">
-<img src="https://github.com/MYusufEfendi/flutter_ui_petshop/blob/main/pic2.png" width="80%" height="80%">
-<img src="https://github.com/MYusufEfendi/flutter_ui_petshop/blob/main/pic3.png" width="80%" height="80%">
+<img src="https://github.com/MYusufEfendi/flutter_ui_petshop/blob/main/pic1.png" width="40%" height="40%">
+<img src="https://github.com/MYusufEfendi/flutter_ui_petshop/blob/main/pic2.png" width="40%" height="40%">
+<img src="https://github.com/MYusufEfendi/flutter_ui_petshop/blob/main/pic3.png" width="40%" height="40%">
  <img src="https://github.com/MYusufEfendi/flutter_ui_petshop/blob/main/pethop.gif" width="60%" height="60%"/>
 
 </p>
