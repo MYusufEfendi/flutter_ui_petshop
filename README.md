@@ -11,13 +11,12 @@ This Ui sample is taken dribble (https://dribbble.com/shots/20508430-Online-Pets
 
 ## SnapShoot 
 <p float="left">
-<img src="https://github.com/MYusufEfendi/flutter_ui_petshop/blob/main/pic1.png" width="50%" height="50%">
-<img src="https://github.com/MYusufEfendi/flutter_ui_petshop/blob/main/pic2.png" width="50%" height="50%">
-<img src="https://github.com/MYusufEfendi/flutter_ui_petshop/blob/main/pic3.png" width="50%" height="50%">
- <img src="https://github.com/MYusufEfendi/flutter_ui_petshop/blob/main/pethop.gif" width="250" height="250"/>
+<img src="https://github.com/MYusufEfendi/flutter_ui_petshop/blob/main/pic1.png" width="60%" height="60%">
+<img src="https://github.com/MYusufEfendi/flutter_ui_petshop/blob/main/pic2.png" width="60%" height="60%">
+<img src="https://github.com/MYusufEfendi/flutter_ui_petshop/blob/main/pic3.png" width="60%" height="60%">
+ <img src="https://github.com/MYusufEfendi/flutter_ui_petshop/blob/main/pethop.gif" width="60%" height="60%"/>
 
 </p>
 
-![Alt Text](https://github.com/MYusufEfendi/flutter_ui_petshop/blob/main/pethop.gif)
 
 
